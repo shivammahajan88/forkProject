@@ -1,0 +1,6 @@
+These are the baclogs i have to clear
+
+Javascript Es6
+ANgular rxjs
+typescript
+Mongodb
