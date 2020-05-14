@@ -7,3 +7,4 @@ Mongodb
 Azure
 data factory
 cascandra db
+postgre
