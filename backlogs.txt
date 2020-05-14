@@ -5,3 +5,4 @@ ANgular rxjs
 typescript
 Mongodb
 Azure
+data factory
