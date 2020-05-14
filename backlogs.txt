@@ -1,5 +1,5 @@
 These are the baclogs i have to clear
-
+nodejs
 Javascript Es6
 ANgular rxjs
 typescript
@@ -10,3 +10,6 @@ cascandra db
 postgre
 spark 
 Ui patah
+recycle
+microservices
+jav 8
